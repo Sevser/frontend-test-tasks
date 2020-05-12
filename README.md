@@ -12,7 +12,7 @@
 * `/profile` — Профиль (авторизованный пользователь)
 * `/list` — Страница с табличкой объектов (авторизованный пользователь)
 
-![](https://github.com/vecherkin/frontend-test-tasks/raw/master/frontend-task-0.png)
+![](https://github.com/Sevser/frontend-test-tasks/raw/master/frontend-task-0.png)
 
 ## Детали реализации
 * Если пользователь переходит на страницу `/profile`, `/list`  и он не авторизован, перекидывать на страницу `/login`
